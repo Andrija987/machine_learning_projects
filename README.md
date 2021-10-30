@@ -1,4 +1,4 @@
-# Machine_learning_projects
+# Machine learning projects
 Different machine learning projects I have done
 
 Containe solved tasks for predicting the healt costs.
